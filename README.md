@@ -7,3 +7,5 @@
 [Workshop 2. SEEP/W Modelling – 1](https://docs.google.com/document/d/1BfMIIk4wqTia-X5rQKkrlAQomBvv9PXh-GZQWhvQfAI/edit)
 
 [Workshop 3. SEEP/W Modelling – 2](https://docs.google.com/document/d/1GAZXCIyxFntwfAJZGwAHRsPL2SkqIir0SvmD8swHapY/edit)
+
+[Workshop 4. Slope/W Modelling – 1](https://docs.google.com/document/d/1nUAUQ6URhA1V-vGXzqouOfpKRkmy_ARIzXpCtM6sVQE/edit)
