@@ -11,3 +11,5 @@
 [Workshop 4. Slope/W Modelling – 1](https://docs.google.com/document/d/1nUAUQ6URhA1V-vGXzqouOfpKRkmy_ARIzXpCtM6sVQE/edit)
 
 [Workshop 5. Slope/W Modelling – 2](https://docs.google.com/document/d/1TxWtoiUpWy7dVTBHJRIGfuHDvMqMyCjUqPmASKRycJo/edit)
+
+[Design Workshop](https://docs.google.com/document/d/1lQx1JVBYdXvYELLhS7a_5wscmwKW4CDYU3w55dpu8-M/edit)
